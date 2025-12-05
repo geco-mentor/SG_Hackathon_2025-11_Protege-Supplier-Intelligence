@@ -6,11 +6,12 @@
 ## ⚠️ IMPORTANT: Advisory Note
 
 Please ensure the files and folders are on the following before running
+```text
 /Users/xxxx/Desktop/Hackathon/ 
   ├── supplier_dashboard_v16.py
   ├── data/
   └── api/
-
+```
 
 First type the following in the command prompt to download all the dependencies: 
 
