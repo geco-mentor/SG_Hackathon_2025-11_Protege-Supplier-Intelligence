@@ -1,3 +1,10 @@
+# PRØTΞGΞ SourceVantage : Sustainable Supplier Intelligence
+
+## Overview
+**PRØTΞGΞ SourceVantage** is an AI-powered Supplier Intelligence solution.
+
+## ⚠️ IMPORTANT: Advisory Note
+
 Please ensure the files and folders are on the following before running
 /Users/xxxx/Desktop/Hackathon/ 
   ├── supplier_dashboard_v16.py
