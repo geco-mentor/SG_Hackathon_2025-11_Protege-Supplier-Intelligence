@@ -19,7 +19,7 @@ First type the following in the command prompt to download all the dependencies:
 python supplier_dashboard_v16.py
 ```
 
-Afterwards run the following into the streamlit website
+Afterwards run the following below:
 
 ```bash
 streamlit run supplier_dashboard_v16.py
