@@ -15,12 +15,12 @@ Please ensure the files and folders are on the following before running
 
 First type the following in the command prompt to download all the dependencies: 
 
-```text
+```python
 python supplier_dashboard_v16.py
 ```
 
 Afterwards run the following into the streamlit website
 
-```text
+```python
 streamlit run supplier_dashboard_v16.py
 ```
